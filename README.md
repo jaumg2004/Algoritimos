@@ -1,2 +1,2 @@
-# Algoritimos
-Exercícios de algoritimos 1, 2 e 3 resolvidos
+# Algoritimos 3
+Exercícios de Algoritimos 3 resolvidos
